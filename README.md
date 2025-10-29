@@ -46,11 +46,11 @@ python src/test_new_model.py     # Test with custom symbol
 - **Digit classifier accuracy:** 97.9 %
 - **Math symbol classifier accuracy:** ≈ 95 %
 - **Framework:** TensorFlow 2 / Keras  
-![Result Graph](results/MNIST_RESULTS4.png)
+![Result Graph](https://drive.google.com/file/d/1uzHs3_baDTTg9cAIuR_GJNUl7m_SsSNf/view?usp=drive_link)
 
 📺 **Project Videos**  
-- [MNIST Demo](https://drive.google.com/file/d/1tUxc7f6xRixd7iJiltt7RSj3otGtPhF8/view?usp=sharing)  
-- [Transfer Learning Demo](https://drive.google.com/file/d/19HiwnOWuTA1B6F5JyT2ykdbp3XPwCsVf/view?usp=sharing)
+- [MNIST Demo](https://drive.google.com/file/d/1v7eAatGGdpeke7R-Vak6VoMIXdZCiapO/view?usp=sharing)  
+- [Transfer Learning Demo](https://drive.google.com/file/d/14lZSyeXLGcRtqAs0oFu-sAo7CrehjtLr/view?usp=drive_link)
 
 ---
 
