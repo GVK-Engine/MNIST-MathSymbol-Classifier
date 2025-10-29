@@ -46,7 +46,7 @@ python src/test_new_model.py     # Test with custom symbol
 - **Digit classifier accuracy:** 97.9 %
 - **Math symbol classifier accuracy:** ≈ 95 %
 - **Framework:** TensorFlow 2 / Keras  
-![Result Graph] (https://drive.google.com/file/d/1uzHs3_baDTTg9cAIuR_GJNUl7m_SsSNf/view?usp=drive_link)
+[Result](https://drive.google.com/file/d/1uzHs3_baDTTg9cAIuR_GJNUl7m_SsSNf/view?usp=drive_link)
 
 📺 **Project Videos**  
 - [MNIST Demo](https://drive.google.com/file/d/1v7eAatGGdpeke7R-Vak6VoMIXdZCiapO/view?usp=sharing)  
